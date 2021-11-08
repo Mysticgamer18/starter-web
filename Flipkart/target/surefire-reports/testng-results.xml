@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-11-08T04:41:54 IST" name="Suite" finished-at="2021-11-08T04:42:21 IST" duration-ms="27312">
+  <suite started-at="2021-11-08T05:01:23 IST" name="Suite" finished-at="2021-11-08T05:02:09 IST" duration-ms="46058">
     <groups>
     </groups>
-    <test started-at="2021-11-08T04:41:54 IST" name="Test" finished-at="2021-11-08T04:42:06 IST" duration-ms="11984">
+    <test started-at="2021-11-08T05:01:23 IST" name="Test" finished-at="2021-11-08T05:01:49 IST" duration-ms="26210">
       <class name="Flipkart.Test.HomePage">
-        <test-method is-config="true" signature="initializer()[pri:0, instance:Flipkart.Test.HomePage@9573b3b]" started-at="2021-11-08T04:41:54 IST" name="initializer" finished-at="2021-11-08T04:41:59 IST" duration-ms="4745" status="PASS">
+        <test-method is-config="true" signature="initializer()[pri:0, instance:Flipkart.Test.HomePage@59a67c3a]" started-at="2021-11-08T05:01:23 IST" name="initializer" finished-at="2021-11-08T05:01:31 IST" duration-ms="7449" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializer -->
-        <test-method signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:Flipkart.Test.HomePage@9573b3b]" started-at="2021-11-08T04:41:59 IST" name="basePageNavigation" data-provider="getData" finished-at="2021-11-08T04:41:59 IST" duration-ms="547" status="PASS">
+        <test-method signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:Flipkart.Test.HomePage@59a67c3a]" started-at="2021-11-08T05:01:31 IST" name="basePageNavigation" data-provider="getData" finished-at="2021-11-08T05:01:31 IST" duration-ms="616" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,15 +27,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Flipkart.Test.HomePage@9573b3b]" started-at="2021-11-08T04:42:00 IST" name="teardown" finished-at="2021-11-08T04:42:00 IST" duration-ms="216" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Flipkart.Test.HomePage@59a67c3a]" started-at="2021-11-08T05:01:33 IST" name="teardown" finished-at="2021-11-08T05:01:38 IST" duration-ms="4172" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="initializer()[pri:0, instance:Flipkart.Test.HomePage@9573b3b]" started-at="2021-11-08T04:42:00 IST" name="initializer" finished-at="2021-11-08T04:42:04 IST" duration-ms="3503" status="PASS">
+        <test-method is-config="true" signature="initializer()[pri:0, instance:Flipkart.Test.HomePage@59a67c3a]" started-at="2021-11-08T05:01:38 IST" name="initializer" finished-at="2021-11-08T05:01:42 IST" duration-ms="4635" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializer -->
-        <test-method signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:Flipkart.Test.HomePage@9573b3b]" started-at="2021-11-08T04:42:04 IST" name="basePageNavigation" data-provider="getData" finished-at="2021-11-08T04:42:04 IST" duration-ms="607" status="PASS">
+        <test-method signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:Flipkart.Test.HomePage@59a67c3a]" started-at="2021-11-08T05:01:42 IST" name="basePageNavigation" data-provider="getData" finished-at="2021-11-08T05:01:43 IST" duration-ms="650" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -51,58 +51,58 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Flipkart.Test.HomePage@9573b3b]" started-at="2021-11-08T04:42:06 IST" name="teardown" finished-at="2021-11-08T04:42:06 IST" duration-ms="88" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Flipkart.Test.HomePage@59a67c3a]" started-at="2021-11-08T05:01:45 IST" name="teardown" finished-at="2021-11-08T05:01:49 IST" duration-ms="4162" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- Flipkart.Test.HomePage -->
     </test> <!-- Test -->
-    <test started-at="2021-11-08T04:42:07 IST" name="test2" finished-at="2021-11-08T04:42:16 IST" duration-ms="9021">
+    <test started-at="2021-11-08T05:01:50 IST" name="test2" finished-at="2021-11-08T05:02:00 IST" duration-ms="9582">
       <class name="Flipkart.Test.ValidateNavBar">
-        <test-method is-config="true" signature="initializer()[pri:0, instance:Flipkart.Test.ValidateNavBar@620aa4ea]" started-at="2021-11-08T04:42:07 IST" name="initializer" finished-at="2021-11-08T04:42:11 IST" duration-ms="4256" status="PASS">
+        <test-method is-config="true" signature="initializer()[pri:0, instance:Flipkart.Test.ValidateNavBar@486be205]" started-at="2021-11-08T05:01:50 IST" name="initializer" finished-at="2021-11-08T05:01:55 IST" duration-ms="4972" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializer -->
-        <test-method signature="basePageNavigation()[pri:0, instance:Flipkart.Test.ValidateNavBar@620aa4ea]" started-at="2021-11-08T04:42:11 IST" name="basePageNavigation" finished-at="2021-11-08T04:42:11 IST" duration-ms="181" status="PASS">
+        <test-method signature="basePageNavigation()[pri:0, instance:Flipkart.Test.ValidateNavBar@486be205]" started-at="2021-11-08T05:01:55 IST" name="basePageNavigation" finished-at="2021-11-08T05:01:55 IST" duration-ms="186" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Flipkart.Test.ValidateNavBar@620aa4ea]" started-at="2021-11-08T04:42:12 IST" name="teardown" finished-at="2021-11-08T04:42:16 IST" duration-ms="4194" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Flipkart.Test.ValidateNavBar@486be205]" started-at="2021-11-08T05:01:56 IST" name="teardown" finished-at="2021-11-08T05:02:00 IST" duration-ms="4119" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- Flipkart.Test.ValidateNavBar -->
     </test> <!-- test2 -->
-    <test started-at="2021-11-08T04:42:16 IST" name="test3" finished-at="2021-11-08T04:42:21 IST" duration-ms="5540">
+    <test started-at="2021-11-08T05:02:00 IST" name="test3" finished-at="2021-11-08T05:02:09 IST" duration-ms="9364">
       <class name="Flipkart.Test.ValidateTitle">
-        <test-method is-config="true" signature="initializer()[pri:0, instance:Flipkart.Test.ValidateTitle@7d373bcf]" started-at="2021-11-08T04:42:16 IST" name="initializer" finished-at="2021-11-08T04:42:20 IST" duration-ms="4624" status="PASS">
+        <test-method is-config="true" signature="initializer()[pri:0, instance:Flipkart.Test.ValidateTitle@3174cb09]" started-at="2021-11-08T05:02:00 IST" name="initializer" finished-at="2021-11-08T05:02:05 IST" duration-ms="4865" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializer -->
-        <test-method signature="basePageNavigation()[pri:0, instance:Flipkart.Test.ValidateTitle@7d373bcf]" started-at="2021-11-08T04:42:20 IST" name="basePageNavigation" finished-at="2021-11-08T04:42:21 IST" duration-ms="96" status="PASS">
+        <test-method signature="basePageNavigation()[pri:0, instance:Flipkart.Test.ValidateTitle@3174cb09]" started-at="2021-11-08T05:02:05 IST" name="basePageNavigation" finished-at="2021-11-08T05:02:05 IST" duration-ms="126" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Flipkart.Test.ValidateTitle@7d373bcf]" started-at="2021-11-08T04:42:21 IST" name="teardown" finished-at="2021-11-08T04:42:21 IST" duration-ms="156" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Flipkart.Test.ValidateTitle@3174cb09]" started-at="2021-11-08T05:02:05 IST" name="teardown" finished-at="2021-11-08T05:02:09 IST" duration-ms="4176" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- Flipkart.Test.ValidateTitle -->
     </test> <!-- test3 -->
   </suite> <!-- Suite -->
-  <suite started-at="2021-11-08T04:42:21 IST" name="Suite (0)" finished-at="2021-11-08T04:42:50 IST" duration-ms="28204">
+  <suite started-at="2021-11-08T05:02:09 IST" name="Suite (0)" finished-at="2021-11-08T05:02:44 IST" duration-ms="35125">
     <groups>
       <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.TestRunner@173b9122]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.TestRunner@24be2d9c]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2021-11-08T04:42:21 IST" name="Test" finished-at="2021-11-08T04:42:50 IST" duration-ms="28204">
+    <test started-at="2021-11-08T05:02:09 IST" name="Test" finished-at="2021-11-08T05:02:44 IST" duration-ms="35125">
       <class name="Flipkart.Test.HomePage">
-        <test-method is-config="true" signature="initializer()[pri:0, instance:Flipkart.Test.HomePage@7c18432b]" started-at="2021-11-08T04:42:35 IST" name="initializer" finished-at="2021-11-08T04:42:40 IST" duration-ms="4916" status="PASS">
+        <test-method is-config="true" signature="initializer()[pri:0, instance:Flipkart.Test.HomePage@5bd73d1a]" started-at="2021-11-08T05:02:24 IST" name="initializer" finished-at="2021-11-08T05:02:28 IST" duration-ms="3618" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializer -->
-        <test-method signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:Flipkart.Test.HomePage@7c18432b]" started-at="2021-11-08T04:42:40 IST" name="basePageNavigation" data-provider="getData" finished-at="2021-11-08T04:42:41 IST" duration-ms="923" status="PASS">
+        <test-method signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:Flipkart.Test.HomePage@5bd73d1a]" started-at="2021-11-08T05:02:28 IST" name="basePageNavigation" data-provider="getData" finished-at="2021-11-08T05:02:29 IST" duration-ms="574" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -118,15 +118,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Flipkart.Test.HomePage@7c18432b]" started-at="2021-11-08T04:42:42 IST" name="teardown" finished-at="2021-11-08T04:42:43 IST" duration-ms="209" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Flipkart.Test.HomePage@5bd73d1a]" started-at="2021-11-08T05:02:29 IST" name="teardown" finished-at="2021-11-08T05:02:33 IST" duration-ms="4199" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="initializer()[pri:0, instance:Flipkart.Test.HomePage@7c18432b]" started-at="2021-11-08T04:42:43 IST" name="initializer" finished-at="2021-11-08T04:42:47 IST" duration-ms="4313" status="PASS">
+        <test-method is-config="true" signature="initializer()[pri:0, instance:Flipkart.Test.HomePage@5bd73d1a]" started-at="2021-11-08T05:02:33 IST" name="initializer" finished-at="2021-11-08T05:02:37 IST" duration-ms="4144" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializer -->
-        <test-method signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:Flipkart.Test.HomePage@7c18432b]" started-at="2021-11-08T04:42:47 IST" name="basePageNavigation" data-provider="getData" finished-at="2021-11-08T04:42:48 IST" duration-ms="521" status="PASS">
+        <test-method signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:Flipkart.Test.HomePage@5bd73d1a]" started-at="2021-11-08T05:02:37 IST" name="basePageNavigation" data-provider="getData" finished-at="2021-11-08T05:02:38 IST" duration-ms="676" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -142,24 +142,24 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Flipkart.Test.HomePage@7c18432b]" started-at="2021-11-08T04:42:49 IST" name="teardown" finished-at="2021-11-08T04:42:50 IST" duration-ms="194" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Flipkart.Test.HomePage@5bd73d1a]" started-at="2021-11-08T05:02:40 IST" name="teardown" finished-at="2021-11-08T05:02:44 IST" duration-ms="4122" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- Flipkart.Test.HomePage -->
       <class name="TestRunner.TestRunner">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:TestRunner.TestRunner@173b9122]" started-at="2021-11-08T04:42:21 IST" name="setUpClass" finished-at="2021-11-08T04:42:22 IST" duration-ms="200" status="PASS">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:TestRunner.TestRunner@24be2d9c]" started-at="2021-11-08T05:02:09 IST" name="setUpClass" finished-at="2021-11-08T05:02:10 IST" duration-ms="348" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@69a40b3c]]>
+                <![CDATA[org.testng.TestRunner@3caee3a8]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.TestRunner@173b9122]" started-at="2021-11-08T04:42:22 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-08T04:42:26 IST" duration-ms="4337" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.TestRunner@24be2d9c]" started-at="2021-11-08T05:02:10 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-08T05:02:18 IST" duration-ms="7997" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -175,7 +175,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.TestRunner@173b9122]" started-at="2021-11-08T04:42:28 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-08T04:42:33 IST" duration-ms="4806" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.TestRunner@24be2d9c]" started-at="2021-11-08T05:02:20 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-08T05:02:24 IST" duration-ms="4044" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -191,7 +191,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:TestRunner.TestRunner@173b9122]" started-at="2021-11-08T04:42:35 IST" name="tearDownClass" finished-at="2021-11-08T04:42:35 IST" duration-ms="15" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:TestRunner.TestRunner@24be2d9c]" started-at="2021-11-08T05:02:24 IST" name="tearDownClass" finished-at="2021-11-08T05:02:24 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

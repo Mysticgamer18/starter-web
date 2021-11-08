@@ -424,3 +424,8 @@
 04:42:11.684 [main] INFO  resources.base - NavBar is successfully validated
 04:42:20.963 [main] INFO  resources.base - Object Created
 04:42:21.057 [main] INFO  resources.base - Successfully validated
+05:01:52.138 [main] INFO  resources.base - Driver is initialized
+05:01:55.747 [main] INFO  resources.base - Driver invoked the browser successfully
+05:01:55.933 [main] INFO  resources.base - NavBar is successfully validated
+05:02:05.305 [main] INFO  resources.base - Object Created
+05:02:05.431 [main] INFO  resources.base - Successfully validated

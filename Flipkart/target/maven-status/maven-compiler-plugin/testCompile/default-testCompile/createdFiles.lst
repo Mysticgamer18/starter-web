@@ -1,4 +1,6 @@
 Flipkart\Test\ValidateNavBar.class
 Flipkart\Test\ValidateTitle.class
+TestRunner\TestRunner.class
 Flipkart\Test\HomePage.class
 Flipkart\Test\listeners.class
+stepDefinitions\stepDefinitions.class
